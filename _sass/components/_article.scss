@@ -19,6 +19,7 @@
 			border-radius: 50%;
 
 			-webkit-shape-outside:circle();
+			-moz-shape-outside:circle();
 			shape-outside:circle();
 
 		  	margin: 4rem;
