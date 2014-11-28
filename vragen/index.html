@@ -1,18 +1,12 @@
 ---
 layout: shell
-section: home
+section: qa
 ---
 
-<blockquote class="ankeiler">
-	<p>
-		Binnenkort open Denim Hotel Amsterdam haar deuren!
-	</p>
-</blockquote>
-	
 <article>
 	<div class="main-content">
 		{% for item in site.posts %}
-			{% if item.id == '/homepage' %}
+			{% if item.id == '/vragen' %}
 			    {{ item.content | markdownify }}
 			{% endif %}
 		{% endfor %}

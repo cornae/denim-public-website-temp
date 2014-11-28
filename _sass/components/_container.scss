@@ -2,7 +2,6 @@
    display: block;
    margin: 0 auto;
    max-width: 1280px;
-   padding: 0;
    -moz-box-sizing: border-box;
    -webkit-box-sizing: border-box;
    box-sizing: border-box;
@@ -10,4 +9,19 @@
 
 .container {
   @include container();
+}
+
+#content {
+	.container {
+		padding: 0 16%;
+	}
+}
+
+.section-home {
+
+	#content {
+		.container {
+			padding: 0;
+		}
+	}
 }
