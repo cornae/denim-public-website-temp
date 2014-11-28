@@ -3,7 +3,7 @@
 
 	#global-nav {
 		position: relative;
-		padding-top: 2em;
+		padding-top: 4em;
 
 		width: 55%;
 		margin: 0 auto;
@@ -25,6 +25,16 @@
 			a {
 				display: block;
 				padding: 1.5em 15%;
+
+				color: white;
+
+				&:hover {
+					text-decoration: none;
+
+					h3 {
+						text-decoration: underline;
+					}
+				}
 
 				h3 {
 					margin: 0 0 0.5em 0;
@@ -75,6 +85,15 @@
 
 					img {
 						width: 100%;
+						-moz-transition: all 0.2s;
+						-webkit-transition: all 0.2s;
+						transition: all 0.2s;
+
+						&:hover {
+							-moz-transform: scale(1.1);
+							-webkit-transform: scale(1.1);
+							transform: scale(1.1);
+						}
 					}
 				}
 			}
