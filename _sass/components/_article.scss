@@ -1,0 +1,65 @@
+@charset "UTF-8";
+
+.section-home {
+	article {
+		padding: 0;
+		background: url(/style/building-bp-1.png) no-repeat left top;
+		margin-top: -345px;
+		padding-top: 345px;
+
+		.main-content {
+			padding: 0 16%;
+		}
+
+		&:before {
+			width: 470px;
+			height: 470px;
+			content: " ";
+			float: left;
+			// background-color: rgba(255,255,255,0.2);
+			border-radius: 50%;
+
+			-webkit-shape-outside:circle();
+			shape-outside:circle();
+
+		  	margin: 4rem;
+		}
+	}
+}
+
+article {
+
+	h1,h2,p,ul,ol,table,dl,pre {
+		margin-bottom: 2rem;
+	}
+
+	ul,ol {
+		li {
+			 margin-left: 0;
+			 padding-left: 1em;
+
+			 &:before {
+			 	content: "•";
+			 	float: left;
+				margin-left: -1em;
+			 }
+		}
+
+	}
+
+	h1 {
+		font-weight: 200; 
+		font-size: 2em;
+		line-height: 130%;
+		margin-bottom: 0.7em;
+	}
+
+	h2 {
+		line-height: 130%;
+	}
+
+	img {
+		max-width: 100%;
+	}
+
+}

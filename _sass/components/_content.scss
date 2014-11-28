@@ -1,7 +1,13 @@
 #content {
-	overflow: hidden;
-	clear: both;
-	height: 400px;
+	padding-top: 4em;
 
-	background: url(/style/building-bp-1.png) no-repeat left top;
+	
+}
+
+.section-home {
+
+	#content {
+		margin-top: -4em;
+		padding-top: 8em; 
+	}
 }

@@ -21,12 +21,12 @@ $mobile:768px;
 
 // Font treatment
 $base-font-size: 18px;
-$base-line-height: 150%;
+$base-line-height: 170%;
 $font-weight-normal: normal;
 $font-weight-bold: bold;
 
 // We use these to control various global styles
-$body-font-color: #222222;
+$body-font-color: white;
 $body-font-family: 'News Cycle', sans-serif;
 $body-font-weight: $font-weight-normal;
 $body-font-style: normal;
@@ -40,6 +40,7 @@ $base-space: 1em; // Create universal white space (e.g. margin, padding, left)
 // Project components
 @import "components/anchor";
 @import "components/ankeiler";
+@import "components/article";
 @import "components/body";
 @import "components/button-bar";
 @import "components/button";

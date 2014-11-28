@@ -1,5 +1,13 @@
 .ankeiler {
-	margin-bottom: 1em;
-	font-size: 3em;
+	margin-bottom: 2rem;
+	font-size: 3.5em;
 	line-height: $base-line-height;
+	display: block;
+
+	p {
+		text-align: center;
+	}
+
+	min-height: 16rem;
+	padding-left: 20rem;
 }

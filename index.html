@@ -1,7 +1,20 @@
 ---
 layout: shell
-application: home
-design_title: Homepage
-design_description: 
+section: home
 ---
 
+	<blockquote class="ankeiler">
+		<p>
+			Binnenkort open Denim Hotel Amsterdam haar deuren!
+		</p>
+	</blockquote>
+	
+<article>
+	<div class="main-content">
+		{% for item in site.posts %}
+			{% if item.id == '/homepage' %}
+			    {{ item.content | markdownify }}
+			{% endif %}
+		{% endfor %}
+	</div>
+</article>
