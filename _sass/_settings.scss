@@ -3,10 +3,11 @@
 @import "fontello/css/fontello.css";
 
 // Primary colours
-$colour-base: #efefef;	
+$colour-base: rgba(255,255,255,0.2);	
 $colour-alert: red;
-$colour-accent: #0081be;
+$colour-accent: white;
 $colour-success: #CBF08B;
+$colour-background: #0c1830;
 
 // Glyps
 
@@ -25,7 +26,6 @@ $font-weight-normal: normal;
 $font-weight-bold: bold;
 
 // We use these to control various global styles
-$body-bg: white;
 $body-font-color: #222222;
 $body-font-family: 'News Cycle', sans-serif;
 $body-font-weight: $font-weight-normal;

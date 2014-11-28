@@ -5,7 +5,10 @@ body {
     font-style: $body-font-style;
     line-height: $base-line-height;
     font-size: $base-font-size;
-    background: $body-bg;
+    background: $colour-background url(/style/bg.jpg) no-repeat;
+    -moz-background-size: 100% auto;
+    -webkit-background-size: 100% auto;
+    background-size: 100% auto;
 	width: 100%;
 	height: 100%;
 	margin: 0;
