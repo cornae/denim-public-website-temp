@@ -4,11 +4,21 @@ section: qa
 ---
 
 <article>
-	<div class="main-content">
+	<section class="main-content">
 		{% for item in site.posts %}
 			{% if item.id == '/vragen' %}
 			    {{ item.content | markdownify }}
 			{% endif %}
 		{% endfor %}
-	</div>
+	</section>
+	<section class="faq">
+		{% for item in site.posts %}
+			{% if item.category == 'faq' %}
+			    <div class="pat-collapsible closed">
+			    	<h3>{{ item.title }}</h3>
+			    	{{ item.content | markdownify }}
+			    </div>
+			{% endif %}
+		{% endfor %}
+	</section>
 </article>
