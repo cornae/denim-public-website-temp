@@ -55,18 +55,22 @@
 				width: 20%;
 				margin-left: -10%;
 
-				&:after {
-					content: " ";
-					position: absolute;
-					left: 50%;
-					width: 0.00001px;
-					height: 12em;
-					bottom: 0;
-					margin-bottom: -12em;
-					border-left: 0.2em dashed white;
-				}
+				
 
 				a {
+					position: relative;
+
+					&:after {
+						content: " ";
+						position: absolute;
+						left: 50%;
+						width: 0.00001px;
+						height: 12em;
+						bottom: 0;
+						margin-bottom: -12em;
+						border-left: 0.2em dashed white;
+					}
+
 					padding: 0;
 
 					img {
