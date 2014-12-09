@@ -1,6 +1,6 @@
 title: Denim Hotel
 author: Cornelis G. A. Kolbach
-baseurl: /
+baseurl: http://denimhotel.nl
 markdown: kramdown
 permalink: /:title
 sass:
