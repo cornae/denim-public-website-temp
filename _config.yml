@@ -10,3 +10,41 @@ exclude:
   - Gemfile.lock
   - config.codekit
   - config.rb
+prose:
+  rooturl: '_posts'
+  siteurl: 'http://www.denimhotel.nl'
+  relativeLinks: 'http://www.denimhotel.nl/links.jsonp'
+  media: 'media'
+  ignore:
+    - index.html
+    - _config.yml
+    - /_layouts
+    - /_includes
+    - /media
+    - /lib
+    - /_work
+    - /style
+  metadata:
+    _posts:
+      - name: "category"
+        field:
+          element: "hidden"
+          value: "faq"
+          options:
+            - name: 'Vraag en antwoord'
+              value: 'faq'
+      - name: "title"
+        field:
+          element: "text"
+          placeholder: "Title"
+          label: "Documenttitel"
+    _posts/static:
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "page"
+      - name: "permalink"
+        field:
+          element: "text"
+          label: "Permalink"
+          value: ""
