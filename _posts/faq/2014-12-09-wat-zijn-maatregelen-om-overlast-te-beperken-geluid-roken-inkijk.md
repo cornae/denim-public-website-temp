@@ -1,6 +1,6 @@
 ---
 category: faq
-published: false
+published: true
 title: "Wat zijn maatregelen om overlast te beperken: geluid, roken, inkijk?"
 ---
 
@@ -24,4 +24,3 @@ Daarna, als er een hotel is, is tijdens de eerste buurtavond al het volgende bes
 - We maken gebruik van inpandige stille aircosystemen, waarbij het niet nodig is om een grote afzuiginstallatie op het dak te zetten. Bij oudere hotels levert dat veel geluidsoverlast op.
 - Het pand is nu en in de toekomst een trouwlocatie. Dat betekent dat er huwelijken kunnen worden voltrokken. Het is onbekend of dat gaat gebeuren, maar we willen dat beperken tot één voltrekking per week. Dat zijn geen huwelijksfeesten! We verwachten niet dat deze in Denim Hotel gehouden worden, hoogstens een enkele keer, en altijd in de daarvoor geschikt gemaakte binnenruimtes. 
 Inkijk. Met de directe buren bespreken we wanneer sprake is van inkijk. Er zijn al vragen gesteld over inkijk vanuit de lift. De huidige transparante lift is een ontwerp van Hubert-Jan Henket en is net als het pand monumentaal verklaard, dat betekent dat we hiermee rekening moeten houden bij het verminderen van inkijk vanuit de lift (bijvoorbeeld melkglas toepassen mag niet zonder meer). We zullen hier waar dat binnen de vergunning kan, maximale aandacht aan schenken. We bespreken de mogelijkheden op de buurtavonden.
-
