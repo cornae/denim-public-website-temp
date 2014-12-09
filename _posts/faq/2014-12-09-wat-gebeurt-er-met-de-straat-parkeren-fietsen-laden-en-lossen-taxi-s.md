@@ -1,6 +1,6 @@
 ---
 category: faq
-published: false
+published: true
 title: "Wat gebeurt er met de straat, parkeren, fietsen, laden en lossen, taxi's?"
 ---
 
@@ -16,5 +16,4 @@ Laden en lossen:
 Laden en lossen gebeurt zoveel mogelijk geconcentreerd in de late ochtend, zoals in de hele binnenstad verplicht is. In de late ochtend, zodat er weinig extra verkeer is in de spits. We onderzoeken de mogelijkheid om elektrische aan- en afvoerdiensten te contracteren, met weinig geluid en helemaal geen dieselgeur. Een ander groot voordeel is dat deze wagens veel minder schade aan de straten toebrengen. We maken goede afspraken over laden en lossen, zodat de hinder minimaal is. Hierover spreken we op de buurtavonden. 
 
 Taxi's:
-Met taxi’s zullen we ook goede afspraken maken om geluidsoverlast (deuren) en geur (diesel) te beperken. We denken erover om een organisatie als Taxi Electric aan ons te verbinden. Zij rijden op afspraak (geen continu rondrijdende taxi’s) en zijn stiller en schoner. Gebruik maken van elektrisch vervoer voor laden en lossen, en voor taxi’s, past in ons streven van een duurzaam hotel, en van een Green Key certificaat.   
-
+Met taxi’s zullen we ook goede afspraken maken om geluidsoverlast (deuren) en geur (diesel) te beperken. We denken erover om een organisatie als Taxi Electric aan ons te verbinden. Zij rijden op afspraak (geen continu rondrijdende taxi’s) en zijn stiller en schoner. Gebruik maken van elektrisch vervoer voor laden en lossen, en voor taxi’s, past in ons streven van een duurzaam hotel, en van een Green Key certificaat.
