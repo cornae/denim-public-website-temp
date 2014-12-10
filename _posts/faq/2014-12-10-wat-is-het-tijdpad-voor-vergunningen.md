@@ -1,6 +1,6 @@
 ---
 category: faq
-published: false
+published: true
 title: "Wat is het tijdpad voor vergunningen?"
 ---
 
