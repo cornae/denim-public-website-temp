@@ -1,6 +1,6 @@
 ---
 category: faq
-published: false
+published: true
 title: "Wat gaat er gebeuren met de tuin en de beplanting?"
 ---
 
