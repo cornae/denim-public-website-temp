@@ -1,6 +1,6 @@
 ---
 category: faq
-published: false
+published: true
 title: "Hoe kom ik in contact met Denim Hotel? "
 ---
 
