@@ -33,6 +33,8 @@ prose:
           options:
             - name: 'Vraag en antwoord'
               value: 'faq'
+            - name: 'Homepage'
+              value: 'homepage'
       - name: "title"
         field:
           element: "text"
