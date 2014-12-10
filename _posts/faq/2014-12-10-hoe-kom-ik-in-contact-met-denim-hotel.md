@@ -11,7 +11,7 @@ Contact kan ook met [leendert@denimhotel.nl](mailto:leendert@denimhotel.nl) of [
 
 - Buurtavonden en kijkdagen: hoe kan ik als buur van Denim Hotel betrokken zijn bij de ontwikkelingen? 
 
-Regelmatig vinden buurtavonden plaats. Ze vangen aan om 19.30 uur en duren tot 21.00 uur. Ze vinden meestal plaats in ‘Ons Huis’, maar het kan zijn dat we door de bouw af en toe moeten uitwijken. Als u in de buurt woont en u wilt weten wanneer de volgende avond plaats vindt, kijk dan op deze site of op facebook. U kunt zich ook aanmelden voor de mailinglijst zodat u op tijd wordt uitgenodigd.
+Regelmatig vinden buurtavonden plaats. Ze vangen aan om 19.30 uur en duren tot 21.00 uur. Ze vinden meestal plaats in ‘Ons Huis’, maar het kan zijn dat we door de bouw af en toe moeten uitwijken. Als u in de buurt woont en u wilt weten wanneer de volgende avond plaats vindt, kijk dan op deze site of op [Facebook](https://www.facebook.com/pages/Denim-Hotel/303313413076317). U kunt zich ook aanmelden voor de mailinglijst zodat u op tijd wordt uitgenodigd.
 Ook hebben we in september een eerste kijkdag gehouden, en willen dat vaker doen. Als u op de mailinglijst staat, dan wordt u hierover op de hoogte gehouden.
 
 - Hoe kan ik met de Buurtadviesraad in contact komen? 
