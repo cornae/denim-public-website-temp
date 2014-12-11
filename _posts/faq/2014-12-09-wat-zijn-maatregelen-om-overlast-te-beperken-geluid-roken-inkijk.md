@@ -13,8 +13,6 @@ Geluidsoverlast tijdens de bouw beperken we als volgt:
 
 Daarna, als er een hotel is, is tijdens de eerste buurtavond al het volgende besproken:
 
-![vijver tuin](/media/test30007.jpg)
-
 - Er is 24/7 een aanspreekpunt.
 - Met gasten spreken we af dat na 23.00 uur het hotel stil moet zijn. Gasten zullen daar natuurlijk ook om vragen.
 - Lunchrestaurant en loungeruimte zijn allebei in het gebouw, dus niet buiten. Het plan is dat het lunchrestaurant om 18.00 uur sluit en de loungeruimte om 23.00 uur. 
