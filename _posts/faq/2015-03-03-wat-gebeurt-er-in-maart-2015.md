@@ -7,11 +7,12 @@ title: "Wat gebeurt er nu het ontwerpbesluit gepubliceerd is?"
 
 
 
+
 Donderdag 2 juli jl. is eindelijk het ontwerpbesluit gepubliceerd in de staatscourant en op de website van de gemeente Amsterdam.
 
 **Wat betekent dit?**
 
-Publicatie is een stap op weg naar het verlenen van de omgevingsvergunning. Publicatie betekent dat de gemeente alle beoordelingen en adviezen heeft ingewonnen over de (ver)bouwplannen, en dat het ontwerpbesluit nu voor zes weken ter inzage ligt. Het ontwerpbesluit is dus bij de gemeente in te zien. Belanghebbenden kunnen deze weken zoals dat heet een â€˜zienswijzeâ€™ indienen over het ontwerp- besluit. De gemeente neemt na zes weken een definitief besluit, waarbij zienswijzen worden meegenomen. Ook de definitieve vergunning ligt weer zes weken ter inzage.
+Publicatie is een stap op weg naar het verlenen van de omgevingsvergunning. Publicatie betekent dat de gemeente alle beoordelingen en adviezen heeft ingewonnen over de (ver)bouwplannen, en dat het ontwerpbesluit nu voor zes weken ter inzage ligt. Het ontwerpbesluit is dus bij de gemeente in te zien. Belanghebbenden kunnen deze weken zoals dat heet een "zienswijze" indienen over het ontwerp-besluit. De gemeente neemt na zes weken een definitief besluit, waarbij zienswijzen worden meegenomen. Ook de definitieve vergunning ligt weer zes weken ter inzage.
 
 **Heeft u vragen over de publicatie of zijn er onduidelijkheden, neem dan contact met ons op.**
 
