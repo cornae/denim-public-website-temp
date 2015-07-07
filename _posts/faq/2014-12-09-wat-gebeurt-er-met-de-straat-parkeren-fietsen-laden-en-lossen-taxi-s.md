@@ -4,7 +4,8 @@ published: true
 title: "Wat gebeurt er met de straat, parkeren, fietsen, laden en lossen, taxi's?"
 ---
 
-In de loop van 2015 zullen er tekeningen worden gemaakt van de straat. Al in de conceptfase zullen we deze bespreken met de Buurtadviesraad en tijdens de buurtavonden, zodat alle goede ideeën in de tekeningen verwerkt kunnen worden en iedereen weet wat er gaat gebeuren. Er is een verkeersplan ingediend, waarbij wij uitgaan van de volgende lijn: 
+
+In de loop van 2016 zullen er tekeningen worden gemaakt van de straat. Al in de conceptfase zullen we deze bespreken met de Buurtadviesraad en tijdens de buurtavonden, zodat alle goede ideeën in de tekeningen verwerkt kunnen worden en iedereen weet wat er gaat gebeuren. Er is een verkeersplan ingediend, waarbij wij uitgaan van de volgende lijn: 
 
 Parkeerplaatsen:
 Er komen geen speciale parkeerplaatsen voor het hotel. De meeste bezoekers zullen met het OV of taxi komen. Er is een afzetplek voorzien voor het huidige hek van de buitenruimte, daar hoeven dus ook geen parkeerplaatsen voor te wijken. Bezoekers met een auto raden we aan om deze te parkeren in de parkeergarage aan de Marnixstraat. 
