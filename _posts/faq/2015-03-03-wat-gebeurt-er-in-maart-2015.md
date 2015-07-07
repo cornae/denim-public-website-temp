@@ -6,6 +6,7 @@ title: "Wat gebeurt er nu het ontwerpbesluit gepubliceerd is?"
 
 
 
+
 Donderdag 2 juli jl. is eindelijk het ontwerpbesluit gepubliceerd in de staatscourant en op de website van de gemeente Amsterdam.
 
 **Wat betekent dit?**
