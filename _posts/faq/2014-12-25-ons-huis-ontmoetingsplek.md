@@ -5,7 +5,7 @@ published: true
 ---
 
 
-Ja, dat is een van de hoofdddoelstellingen van Denim Hotel. De buitenruimte waar nu een gesloten hek omheen staat zal toegankelijk worden voor iedereen. We willen dat dit een rustpunt wordt in onze buurt. Het lunchrestaurant is ook bedoeld om even een kop koffie te drinken. Zoals gezegd willen we voorkomen dat je het gevoel hebt dat je ‘een hotel’ binnenloopt. Het gebouw zal na 40 jaar weer open zijn voor iedereen!
+Ja, dat is een van de doelstellingen van Denim Hotel. De buitenruimte waar nu een gesloten hek omheen staat zal toegankelijk worden voor iedereen. We willen dat dit een rustpunt wordt in onze buurt. Het lunchrestaurant is ook bedoeld om even een kop koffie te drinken. Zoals gezegd willen we voorkomen dat je het gevoel hebt dat je ‘een hotel’ binnenloopt. Het gebouw zal na 40 jaar weer open zijn voor iedereen!
 
 ![tuinachteraanz1.jpg](/media/tuinachteraanz1.jpg)
 
