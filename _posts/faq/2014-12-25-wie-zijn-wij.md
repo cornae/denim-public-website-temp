@@ -1,6 +1,6 @@
 ---
 category: faq
-title: "Wie zijn wij?"
+title: "Wie ben ik?"
 published: true
 ---
 
