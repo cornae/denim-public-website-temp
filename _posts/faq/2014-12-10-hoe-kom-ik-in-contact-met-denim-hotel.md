@@ -4,10 +4,11 @@ published: true
 title: "Hoe kom ik in contact met Denim Hotel? "
 ---
 
+
 **- Ik heb wensen, vragen, een klacht, of wil gewoon contact; hoe kan dat?**
 
 Algemeen e-mailadres is: [info@denimhotel.nl](mailto:info@denimhotel.nl).
-Contact kan ook met [leendert@denimhotel.nl](mailto:leendert@denimhotel.nl) of [luc@denimhotel.nl](mailto:luc@denimhotel.nl). Bij vragen over bouwactiviteiten kunt u terecht bij onze projectleider Ben Bergervoet op nummer **06 13 50 67 13**. 
+Contact kan ook met [leendert@denimhotel.nl](mailto:leendert@denimhotel.nl). Bij vragen over bouwactiviteiten kunt u terecht bij de Aannemer DuPrie op nummer **071 522 29 19**. 
 
 **- Buurtavonden en kijkdagen: hoe kan ik als buur van Denim Hotel betrokken zijn bij de ontwikkelingen?**
 
