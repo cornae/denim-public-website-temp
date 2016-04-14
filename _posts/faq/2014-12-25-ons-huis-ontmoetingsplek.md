@@ -11,4 +11,4 @@ Ja, dat is een van de doelstellingen van Denim Hotel. De buitenruimte waar nu ee
 
 Ook zullen ruimtes op verzoek beschikbaar zijn voor buurtgesprekken als daar behoefte aan is en bijvoorbeeld voor vergaderingen van VvE's uit de buurt. Ook staan we open voor het beschikbaar stellen van ruimte voor exposities van kunstenaars uit de buurt. Tijdens de buurtavond kwam de suggestie om het gebouw weer open te stellen als stembureau en ook werd aangegegevn dat het leuk zou zijn als de traditione buurtbarbeque in ere hersteld zou worden.
 
-Met de buurtadviesraad en op buurtavonden bespreken we verder op welke manier we ‘Ons Huis’ weer de ontmoetingsplek van de buurt kan worden.
+Met de buurtadviesraad en op buurtavonden zal ik verder bespreken op welke manier ‘Ons Huis’ weer de ontmoetingsplek van de buurt kan worden.
